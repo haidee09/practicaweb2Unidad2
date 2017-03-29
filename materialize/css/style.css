@@ -1,0 +1,34 @@
+#posicion{
+  padding-top: 65px;
+  padding-left: 20%;
+}
+#posicion2{
+  padding-left: 10%;
+}
+#posicion3{
+  padding-left: 20%;
+}
+#text{
+  padding-top: 10px;
+  font-family: 'Black Ops One', cursive;
+  text-align: center;
+  font-size: 50%;
+}
+#fuente{
+  font-family: 'Crimson Text', serif;
+  font-size: 18px;
+  text-align: justify;
+}
+#fuente2{
+  font-family: 'Righteous', cursive;
+}
+#location{
+  padding-top: 30px;
+}
+img{
+  margin-top: -2em;
+}
+#proyectos{
+  font-family: 'Nova Oval', cursive;
+  font-size:15px;
+}

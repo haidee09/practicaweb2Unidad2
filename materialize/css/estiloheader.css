@@ -21,3 +21,13 @@ hr{
 #logoitc{
   padding-top: 2%;
 }
+#footer{
+  width: 96%;
+  padding-top: .2%;
+  padding-bottom: .2%;
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 8px;
+  border-left: 4px solid green;
+  border-right: 4px solid green;
+}

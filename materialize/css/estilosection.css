@@ -1,7 +1,7 @@
 /*Version de escritorio posicion Div*/
 #seccion{
-  padding-left: 3%;
-  padding-right: 3%;
+  margin-left: 4%;
+  margin-right:  2%;
 }
 #div1{
   width: 12%;
